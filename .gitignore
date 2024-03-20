@@ -1,0 +1,16 @@
+# Ignore Colab checkpoint files
+.ipynb_checkpoints/
+
+# Ignore output files generated during code execution
+*.log
+*.csv
+*.txt
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore sensitive information (e.g., API keys, credentials)
+secrets.json
+credentials.json
+
